@@ -6,6 +6,9 @@ All Copyright By SmSm
 Best Token Hoster Project V13  
 Dont Forget Give 🌟 Project And Thank You All
 
+# How To Use
+Just Put Tokens In File tokens.txt
+
 
 
 
