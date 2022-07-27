@@ -22,7 +22,7 @@ Just Put Tokens In File tokens.txt
 
 <a href="https://discord.gg/JjUc7G7kwV"><img src="https://discord.com/api/guilds/819635292834103347/widget.png?style=banner1"></a>
 
-<a href="https://discord.gg/RMEQSbMtEk"><img src="https://discord.com/api/guilds/496754973883760650/widget.png?style=banner1"></a>
+<a href="https://discord.gg/RMEQSbMtEk"><img src="https://discord.com/api/guilds/496754973883760650/widget.png?style=banner3"></a>
 
 <a href="https://discord.gg/7MaVp5HCSh"><img src="https://discord.com/api/guilds/520281557714468878/widget.png?style=banner2"></a>
 
