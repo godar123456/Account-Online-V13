@@ -19,7 +19,10 @@ Just Put Tokens In File tokens.txt
 
 
 # Link My Discord Servers
-<a href="https://discord.gg/JjUc7G7kwV"><img src="https://discord.com/api/guilds/819635292834103347/widget.png?style=banner2"></a>
-[Zero Codes](https://discord.gg/RMEQSbMtEk)
 
-[Zero Devlopers](https://discord.gg/7MaVp5HCSh)
+<a href="https://discord.gg/JjUc7G7kwV"><img src="https://discord.com/api/guilds/819635292834103347/widget.png?style=banner2"></a>
+
+<a href="https://discord.gg/RMEQSbMtEk"><img src="https://discord.com/api/guilds/496754973883760650/widget.png?style=banner2"></a>
+
+<a href="https://discord.gg/7MaVp5HCSh"><img src="https://discord.com/api/guilds/520281557714468878/widget.png?style=banner2"></a>
+
