@@ -19,4 +19,7 @@ Just Put Tokens In File tokens.txt
 
 
 
-# [Link](https://discord.gg/7MaVp5HCSh) My Discord 
+# Link My Discords Servers
+[ProgressHome](https://discord.gg/JjUc7G7kwV)
+[ZeroCodes](https://discord.gg/RMEQSbMtEk)
+[ZeroDevlopers](https://discord.gg/7MaVp5HCSh)
